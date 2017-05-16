@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494974616 source:c:\users\prajw\documents\dimensional\dollarwords.cpp
+	<fstream>
+	<iostream>
+	<string>
+
